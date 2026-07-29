@@ -1,0 +1,52 @@
+# =========================
+# Python & Environment
+# =========================
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =========================
+# Secrets & Credentials
+# =========================
+# Environment variables (NEVER COMMIT THIS)
+.env
+.env.local
+*.pem
+
+# =========================
+# Data & Vector DB Storage
+# =========================
+# Uploaded documents and chunked data
+data/
+uploads/
+downloads/
+temp/
+
+# Local Vector DB storage (if using Qdrant/Chroma locally)
+qdrant_storage/
+chroma_db/
+*.sqlite3
+*.db
+
+# =========================
+# Logs & Testing
+# =========================
+*.log
+.pytest_cache/
+htmlcov/
+.coverage
+
+# =========================
+# OS & IDEs
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

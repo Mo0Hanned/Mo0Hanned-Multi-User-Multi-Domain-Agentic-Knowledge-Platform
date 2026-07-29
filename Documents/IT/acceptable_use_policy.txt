@@ -1,0 +1,43 @@
+Acceptable Use Policy - Information Technology Department
+
+1. GENERAL USE
+- Company IT resources are provided for business purposes.
+- Limited personal use is permitted during breaks and lunch hours.
+- Personal use must not interfere with job responsibilities or productivity.
+- All use of company IT resources is subject to monitoring.
+
+2. EMAIL AND COMMUNICATIONS
+- Company email must be used for all business communications.
+- Auto-reply must be configured when employees are out of the office.
+- Large attachments (over 10MB) should be shared via approved cloud storage.
+- Email encryption is required for sending confidential information.
+
+3. INTERNET USE
+- Internet access is provided for business-related research and communication.
+- Access to inappropriate, offensive, or illegal websites is strictly prohibited.
+- Streaming services are limited to break times and must not consume excessive bandwidth.
+- Downloading unauthorized software or files from the internet is prohibited.
+
+4. SOFTWARE USAGE
+- Only licensed software may be used on company devices.
+- Software licenses are managed by the IT department.
+- Employees must not share software licenses or installation media.
+- Open-source software requires prior approval from IT Security.
+
+5. DATA HANDLING
+- Company data must be stored on approved corporate systems only.
+- Personal cloud storage services (Dropbox, Google Drive personal) are not permitted for company data.
+- USB drives and external storage devices must be encrypted.
+- Data must be classified according to the Data Classification Policy.
+
+6. PASSWORD AND ACCESS
+- Refer to the Security Policy for detailed password requirements.
+- Access to systems is granted based on job role and need-to-know principle.
+- Shared accounts are prohibited; each employee must have individual credentials.
+- Access must be revoked within 24 hours of employment termination.
+
+7. REPORTING VIOLATIONS
+- Suspected violations must be reported to the IT Security team immediately.
+- Reports can be made through the IT helpdesk portal or security hotline.
+- Confidential reporting is available for sensitive security concerns.
+- Retaliation against reporters is strictly prohibited.

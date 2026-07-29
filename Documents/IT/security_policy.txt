@@ -1,0 +1,17 @@
+IT Security Policy - Password and Authentication
+
+Effective Date: January 1, 2025
+
+1. PASSWORD POLICY
+All employees must change their passwords every 90 days.
+Passwords must be at least 12 characters long.
+Passwords must include uppercase letters, lowercase letters, numbers, and at least one special character.
+Password reuse is prohibited for the last 12 passwords.
+Accounts are locked after 5 consecutive failed login attempts.
+Single Sign-On (SSO) is required for all corporate applications.
+
+2. MULTI-FACTOR AUTHENTICATION (MFA)
+MFA is mandatory for all remote access and VPN connections.
+MFA is required for accessing sensitive systems including financial and HR platforms.
+Approved MFA methods include authenticator apps and hardware security keys.
+SMS-based MFA is not permitted due to security vulnerabilities.
