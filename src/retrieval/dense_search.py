@@ -1,6 +1,6 @@
 from typing import List, Dict, Any, Optional
 from dataclasses import dataclass
-from sentence_transformers import SentenceTransformer
+from src.ingestion.embedding import EmbeddingGenerator
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import ScoredPoint, Filter, FieldCondition, MatchValue
 import logging
@@ -53,8 +53,8 @@ class DenseSearch:
             raise
 
         try:
-            self.model = SentenceTransformer("intfloat/multilingual-e5-base")
-            logger.info("Loaded embedding model: intfloat/multilingual-e5-base")
+            self.model = EmbeddingGenerator().model
+            logger.info("Loaded embedding model: intfloat/multilingual-e5-base via EmbeddingGenerator")
         except Exception as e:
             logger.error("Failed to load embedding model: %s", str(e))
             raise
